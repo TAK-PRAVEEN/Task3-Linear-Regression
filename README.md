@@ -1,4 +1,4 @@
-# Linear Regrssion
+# Linear Regression
 ---
 
 **1. What assumptions does linear regression make?**
